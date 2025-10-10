@@ -1,9 +1,9 @@
-# aqui vai pedir os numeros
+
 num1 = int(input("Digite o primeiro número inteiro: "))
 num2 = int(input("Digite o segundo número inteiro: "))
 num3 = float(input("Digite um número real: "))
 
-# a.
+#a.
 resultado_a = (num1 * 2) * (num2 / 2)
 print(f"\na. O produto do dobro do primeiro com a metade do segundo é: {resultado_a}")
 
