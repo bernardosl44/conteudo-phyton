@@ -1,4 +1,3 @@
-
 valor_por_hora = float(input("Digite o valor que você ganha por hora: "))
 
 
